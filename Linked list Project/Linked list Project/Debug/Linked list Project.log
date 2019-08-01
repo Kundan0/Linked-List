@@ -1,0 +1,34 @@
+﻿  Main.cpp
+c:\linked list project\linked list project\main.cpp(401): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\linked list project\linked list project\main.cpp(443): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\linked list project\linked list project\main.cpp(562): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\linked list project\linked list project\main.cpp(562): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\linked list project\linked list project\main.cpp(661): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\linked list project\linked list project\main.cpp(662): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\linked list project\linked list project\main.cpp(783): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\linked list project\linked list project\main.cpp(784): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Linked list Project.vcxproj -> C:\Linked list Project\Debug\Linked list Project.exe
